@@ -8,7 +8,7 @@ Thank you for reviewing my resume!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/institucija7/Building-a-Cybersecurity-Homelab-for-Detection-and-Monitoring)
   
   - [Setup SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 

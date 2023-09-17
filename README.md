@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  -[Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
   
-  -[Setup SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setup SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
  <h2>📄 Certifications</h2>
 
--[TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KAETRVD5PN.png)
+- [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KAETRVD5PN.png)
 
--[Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
+- [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
 
 <h2>🔭 Experience </h2>
 

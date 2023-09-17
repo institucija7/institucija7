@@ -13,7 +13,7 @@
 
 -[Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
 
-<h2>⌨️  Experience </h2>
+<h2>🔭 Experience </h2>
 
 <h2>📺 Popular YouTube Videos</h2>
 

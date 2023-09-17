@@ -5,16 +5,21 @@
   -[Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
   -[Setup SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
+
+<h2>📄 Certifications</h2>
+
+-[TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KAETRVD5PN.png)
+-[Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
+
+<h2> Experience </h2>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Windows Endpoint Investigation with Splunk](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Boss of the SOCv1 -Splunk]
 - [Boss of the SOCv2 -Splunk]
 
-<h2>📄 Certifications
 
--[TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KAETRVD5PN.png)
--[Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,7 +29,7 @@
 
 
 [youtube]: https://www.youtube.com/channel/UC0zsfq1u4_cpK-_6dw5RGvA
-[instagram]: https://www.instagram.com/denzabl)
+[instagram]: https://www.instagram.com/denzabl
 [linkedin]: https://linkedin.com/in/joshmadakor
 [discord]: https://discord.com/users/denza9023
 

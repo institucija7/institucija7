@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mario! <br/><a>Cyber Security Junior Analyst</a></h1>
+<h1>Hi, I'm Mario! 
 
 <h2>😄 INTRO</h2>
 Hello, my name is Mario and I'm currently making the transition from the Grocery Retail into the Cybersecurity field with a focus in SOC Analyst.

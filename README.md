@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mario! 
 
-<h2>😄 INTRO</h2>
+<h2>😄 Intro</h2>
 Hello, my name is Mario and I'm currently making the transition from the Grocery Retail into the Cybersecurity field with a focus in SOC Analyst.
  I've been doing everything I can to improve my skills and gain exposure, and have produced and released content that is currently in use today (see below). 
 Thank you for reviewing my resume!

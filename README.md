@@ -1,5 +1,11 @@
 <h1>Hi, I'm Mario! <br/><a>Cyber Security Junior Analyst</a></h1>
 
+<h2>😄INTRO</h2>
+Hello, my name is Mario and I'm currently making the transition from the Grocery Retail into the Cybersecurity field with a focus in SOC Analyst.
+ I've been doing everything I can to improve my skills and gain exposure, and have produced and released content that is currently in use today (see below). 
+Thank you for reviewing my resume!
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -14,6 +20,9 @@
 - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
 
 <h2>🔭 Experience </h2>
+
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 

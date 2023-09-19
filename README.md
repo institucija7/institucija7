@@ -50,7 +50,7 @@ Thank you for reviewing my resume!
 
 [youtube]: https://www.youtube.com/channel/UC0zsfq1u4_cpK-_6dw5RGvA
 [instagram]: https://www.instagram.com/denzabl
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/mario-topic-383072292/
 [discord]: https://discord.com/users/denza9023
 
 <!--

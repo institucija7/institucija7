@@ -8,9 +8,9 @@ Thank you for reviewing my resume!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/institucija7/Building-a-Cybersecurity-Homelab-for-Detection-and-Monitoring)
+  - [Creating Vulnerability Management Lab](https://github.com/institucija7/Building-a-Cybersecurity-Homelab-for-Detection-and-Monitoring)
   
-  - [Setup SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project Splunk- TryHackMe](https://www.youtube.com/watch?v=ERY-JKASOA8&list=PLiv7HE-FeYPsaYFmI4D9WeUg2HyvJjA5w)
 
 
  <h2>📄 Certifications</h2>
@@ -26,9 +26,9 @@ Thank you for reviewing my resume!
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Windows Endpoint Investigation with Splunk](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Boss of the SOCv1 -Splunk]
-- [Boss of the SOCv2 -Splunk]
+- [TheHive Project](https://www.youtube.com/watch?v=GpmHH-wOq5A&t=474s)
+- [KAPE TryHackMe](https://www.youtube.com/watch?v=sfE0XTesp7I&t=243s)
+- [Snort-The Basics](https://www.youtube.com/watch?v=V70yN9Opxb8&t=1196s)
 
 <h2>⚡ Website </h2>
 

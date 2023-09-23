@@ -15,9 +15,9 @@ Thank you for reviewing my resume!
 
  <h2>📄 Certifications</h2>
 
-- [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KAETRVD5PN.png)
-
 - [TryHackMe PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T8TVY98CVW.png)
+
+- [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KAETRVD5PN.png)
 
 - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/935690006)
 
@@ -45,7 +45,7 @@ Thank you for reviewing my resume!
 
  <h2>✨ Education</h2>
 
-- Comptia Network+, Comptia Security+, Security Blue Team, TryHackMe,Splunk Udemy
+- Comptia Network+, Comptia Security+, TryHackMe, Security Blue Team and Splunk Udemy
 
 <h2> 🤳 Connect with me:</h2>
 

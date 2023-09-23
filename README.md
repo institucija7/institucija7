@@ -41,6 +41,10 @@ Thank you for reviewing my resume!
 
 - [Visit my website](https://denzablueteam.000webhostapp.com/)
 
+ <h2>✨ Education</h2>
+
+- [Comptia Network+, Comptia Security+, Security Blue Team, TryHackMe,Splunk Udemy]
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Mario Topic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

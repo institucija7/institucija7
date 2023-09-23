@@ -43,7 +43,7 @@ Thank you for reviewing my resume!
 
  <h2>✨ Education</h2>
 
-- [Comptia Network+, Comptia Security+, Security Blue Team, TryHackMe,Splunk Udemy]
+- Comptia Network+, Comptia Security+, Security Blue Team, TryHackMe,Splunk Udemy
 
 <h2> 🤳 Connect with me:</h2>
 
